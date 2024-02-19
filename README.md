@@ -16,12 +16,20 @@ How it works:
 5) Continue per person
 6) Next page enter tax and tip
 7) Calculate necessary costs
-8) Add a share button to share to each friend
+8) Add a share button to share to each friend via a message
 
 #Plans
 Develope a timeline:
-- Work on Persistance for each Tab and all of its values (Preferrably JSON file in on open and file out
-on close/exit
+- Fix weird spacing in list second view below entering name and price
+- Add Navigation link to final info tab
+- Build a view for Final information for tab
 - Work on people data models/objects to store each persons price and how much they owe
-- Work on view that 
-- Build a view for Final calculations
+- Work on Persistance for each Tab and all of its values (Preferrably JSON file in on open and file out
+on close/exit)
+- Work on way to save final view with information and append to main list on enterance
+- Add a way to filter by price
+- Add way to filter by name
+
+#More Welcome 
+Feel Free to submit pull requests and enter info in the discussions page/add to read me
+
