@@ -68,7 +68,7 @@ struct peopleView: View{
             Text("Chic Fil A")
             Spacer()
             Text("\(teb.numPeople)")
-            Image(systemName: "person.circle")
+            Image(systemName: "person.2")
         }
     }
 }

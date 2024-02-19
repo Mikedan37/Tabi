@@ -44,6 +44,7 @@
 		7C664B982B71EB2200407AAA /* ItemModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemModel.swift; sourceTree = "<group>"; };
 		7C664B9A2B73626000407AAA /* TabModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabModel.swift; sourceTree = "<group>"; };
 		7C664B9C2B75FEA800407AAA /* File.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
+		7C664B9E2B83149500407AAA /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = Tabi/README.md; sourceTree = SOURCE_ROOT; };
 		7CAF353F2B70AE3600A0E9E1 /* NewTabSplitView1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewTabSplitView1.swift; sourceTree = "<group>"; };
 		7CAF35412B70AE4800A0E9E1 /* NewTabSplitView2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewTabSplitView2.swift; sourceTree = "<group>"; };
 		7CCCAC472B676CB50048656A /* Tabi.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tabi.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -117,11 +118,12 @@
 		7CCCAC492B676CB50048656A /* Tabi */ = {
 			isa = PBXGroup;
 			children = (
+				7C664B9E2B83149500407AAA /* README.md */,
 				7CCCAC4A2B676CB50048656A /* TabiApp.swift */,
 				7CAF35432B70AE5600A0E9E1 /* Models */,
 				7CCCAC742B6774AB0048656A /* Views */,
-				7CCCAC4E2B676CBA0048656A /* Assets.xcassets */,
 				7CCCAC502B676CBA0048656A /* Preview Content */,
+				7CCCAC4E2B676CBA0048656A /* Assets.xcassets */,
 			);
 			path = Tabi;
 			sourceTree = "<group>";
