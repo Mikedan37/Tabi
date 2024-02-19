@@ -9,7 +9,7 @@ It allows users to be responsable for their part of the bill including an
 equal split of taxes and tip. 
 
 How it works:
-1) Click top rigt to create a new tab to split
+1) Click top right to create a new tab to split
 2) Enter requested info in pop up
 3) Go to next page where you enter Items for your tab
 4) Select the name of the person, tap all items they had.
